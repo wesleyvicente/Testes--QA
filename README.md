@@ -77,21 +77,6 @@ npm start
 Pela simplicidade de desenvolvimento, foi escolhido para execução dos testes deste projeto o TypeScript, e para criação do servidor de testes Selenium, o Docker, para mais versatilidade.
 
 
-## Autores
-
-Edu Pinheiro Caribé - [@caribeedu](https://github.com/caribeedu)
-
-Julio Luiz dos Reis Filho - [@julio-reis-04](https://github.com/julio-reis-04)
-
-Amilton Gonçalves de Jesus - [@amiltonbh](https://github.com/amiltonbh)
-
-Yan Aguiar Marinho Wendling - [@yanwend11](https://github.com/yanwend11)
-
-Guilherme Coelho Costa - [@Guilhermecmd](https://github.com/Guilhermecmd)
-
-Júlio César Jiménez - [@jmnzjulio](https://github.com/jmnzjulio)
-
-Daniel Pereira da Costa Filho - [@daniel-filho-3011](https://github.com/daniel-filho-3011)
 
 
 ## Licença
